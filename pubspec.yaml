@@ -1,0 +1,39 @@
+name: currency_converter
+description: A simple animated currency converter app in Flutter.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.6
+  dropdown_search: ^5.0.6
+  lottie: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.3.10
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icon.png
+    - assets/splash.png
+    - assets/currancy.json
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon.png"
+
+
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/splash.png
+  android_gravity: center
+  ios_content_mode: center
+  fullscreen: true
