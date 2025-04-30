@@ -19,7 +19,7 @@ Welcome to the **Currency Converter** app — a beautifully designed, real-time 
 
 | Splash Screen               | Currency Converter Screen       |
 |:---------------------------|:--------------------------------|
-| ![Splash Screen](![Screenshot 2025-04-30 175053](https://github.com/user-attachments/assets/8009372a-e349-4ef7-88fb-542296c30951)) | ![Converter Screen](![Screenshot 2025-04-30 175127](https://github.com/user-attachments/assets/f2692d81-5701-42f1-bcb8-4cdd1a763ea1)
+(![Screenshot 2025-04-30 175053](https://github.com/user-attachments/assets/8009372a-e349-4ef7-88fb-542296c30951)) |(![Screenshot 2025-04-30 175127](https://github.com/user-attachments/assets/f2692d81-5701-42f1-bcb8-4cdd1a763ea1)
 ) |
 
 ---
