@@ -1,16 +1,36 @@
-# currancy_convertor
+# 💱 Currency Converter Flutter App
 
-A new Flutter project.
+Welcome to the **Currency Converter** app — a beautifully designed, real-time currency conversion app built with **Flutter** and powered by **ExchangeRate API**. This app features a splash screen with animated graphics, dark/light theme switching, and interactive dropdowns for selecting currencies.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🌐 Real-time currency conversion
+- 🎨 Light and dark mode toggle
+- 🪄 Smooth splash screen with Lottie animation
+- 📱 Beautiful dropdowns with country flags using `dropdown_search`
+- ⚡ Simple, clean, and modern UI
+- 🔄 Animated buttons and loading indicators
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Preview
+
+| Splash Screen               | Currency Converter Screen       |
+|:---------------------------|:--------------------------------|
+| ![Splash Screen](![Screenshot 2025-04-30 175053](https://github.com/user-attachments/assets/8009372a-e349-4ef7-88fb-542296c30951)
+) | ![Converter Screen](![Screenshot 2025-04-30 175127](https://github.com/user-attachments/assets/f2692d81-5701-42f1-bcb8-4cdd1a763ea1)
+) |
+
+---
+
+## 🚀 Getting Started
+
+### 📦 Prerequisites
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- Dart SDK (comes with Flutter)
+- Android Studio 
+- ExchangeRate API Key (https://v6.exchangerate-api.com/v6/2be3fe8befb816a76143d578/latest/USD)
+
+---
